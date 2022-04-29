@@ -1,3 +1,11 @@
 * [lang^=en] {
   color: green;
 }
+
+#textoEncabezado{
+  font-family: 'Indie Flower';
+}
+
+.bodyApp{
+  font-family: 'Inter';
+}
